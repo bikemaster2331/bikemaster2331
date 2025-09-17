@@ -1,9 +1,6 @@
 # 💫 About Me:
 
 
-Expert sa flowchart<br>
-funny rin sabi nila<br>
-
 
 
 
