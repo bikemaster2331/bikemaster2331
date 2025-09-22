@@ -1,4 +1,4 @@
-# About Me:
+## About Me:
 
 
 
@@ -50,6 +50,7 @@
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikemaster2331&show_icons=true&theme=transparent)
 
+---
 
 ### Contacts:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:marthan.lanuzga@gmail.com)
