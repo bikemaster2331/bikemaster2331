@@ -4,7 +4,7 @@
 
 
 
-## 🌐 Socials:
+## Contacts:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:marthan.lanuzga@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/marthan.lanuzga) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanlanuzga) 
@@ -14,7 +14,7 @@
 ## 💻 Tech Stack:
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -23,7 +23,7 @@
 
 ---
 
-### 🌐 Frontend & Web Development
+### Frontend & Web Development
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -33,7 +33,7 @@
 
 ---
 
-### 🧠 AI, ML, and Data Science
+### AI, ML, and Data Science
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -43,14 +43,14 @@
 
 ---
 
-### 🖼️ Computer Vision & Backend
+### Computer Vision & Backend
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
-### 🗄️ Databases
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
