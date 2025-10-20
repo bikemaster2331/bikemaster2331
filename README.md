@@ -1,10 +1,7 @@
-## About Me:
-
-Marthan Lanuzga
 
 
 
-## 💻 Tech Stack:
+## Tech Stack:
 <div align="center">
 
 ### Proficient Languages
