@@ -1,3 +1,4 @@
+![3D model preview](assets/model_preview.png)
 
 
 
