@@ -8,9 +8,18 @@
 
 
 
----
+<div align="center">
 
 # About:
+
+Hi there! 
+I'm someone who enjoys turning ideas into real, working things whether it's a cool piece of code or a small project that makes life easier. I’m constantly exploring new technologies and love tinkering with anything that challenges me to think differently.  
+
+I spend most of my time experimenting, building, and learning. My curiosity drives me toward smarter, more intuitive systems that can think, adapt, and evolve.  
+
+Outside the screen, I’m always up for discovering new places and experiences even if I’m not the best at navigating them yet. I’m fueled by good food (as long as it's not spicy) and big dreams that reach far beyond borders (I'd like to travel around the world).  
+
+Let’s build something awesome together!
 
 
 
