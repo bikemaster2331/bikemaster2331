@@ -1,5 +1,4 @@
-![3D Animation](https://media.giphy.com/media/lO8nGQocalQ9Vfm2TH/giphy.gif)
-
+![3D Animation](https://media.giphy.com/media/de9E7FKxmzt5K/giphy.gif)
 
 
 
