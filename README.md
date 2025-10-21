@@ -14,7 +14,7 @@
 
 - I like food
 - I dont enjoy spicy food
-- I'd like to travel around the world!!
+- I'd like to travel around the world
 - I'm bad at traveling
 
 
