@@ -2,6 +2,11 @@
   <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
 </p>
 
+<p align="center">
+  <img src="https://…/bongo-cat.gif" width="300" alt="Bongo Cat">
+</p>
+
+
 ---
 
 # About:
