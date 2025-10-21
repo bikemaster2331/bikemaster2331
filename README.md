@@ -1,6 +1,4 @@
-<p>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" alt="Floating 3D Animation">
-</p>
+<img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="float: right;" width="50">
 
 
 
