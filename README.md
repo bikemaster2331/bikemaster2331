@@ -2,7 +2,9 @@
   <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
 </p>
 
-<img src="https://media.tenor.com/PbdRZW-5F0EAAAAi/bongo-cat-lawbear.gif" width="200" style="float: right; margin-left: 20px;" alt="Bongo Cat Lawbear">
+<p align="center">
+  <img src="https://media.tenor.com/PbdRZW-5F0EAAAAi/bongo-cat-lawbear.gif" width="300" alt="Bongo Cat Lawbear">
+</p>
 
 
 
