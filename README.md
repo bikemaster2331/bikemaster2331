@@ -1,4 +1,4 @@
-![3D animation](https://media2.giphy.com/media/SNeZeuwlDrryu152pH/giphy.gif)
+![Giphy Animation](https://media.giphy.com/media/SNeZeuwlDrryu152pH/giphy.gif)
 
 
 
