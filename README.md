@@ -1,5 +1,5 @@
 <p>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="10" alt="Floating 3D Animation">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" alt="Floating 3D Animation">
 </p>
 
 
