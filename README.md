@@ -12,10 +12,10 @@
 
 # About:
 
-- Curious mind. Builder of things.  
-- I enjoy creating smart, meaningful stuff that just works.  
-- Easily amazed by tech, sometimes lost in new ideas (and new places).  
-- Fueled by good food, better code, and big dreams.
+- I like food
+- I dont enjoy spicy food
+- I'd like to travel around the world!!
+- I'm bad at traveling
 
 
 
