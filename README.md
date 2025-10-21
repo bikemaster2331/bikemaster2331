@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnB5YnBsdGlta2p0Yjh3MGlxZWR6bmlkdzk3bjJvODN2ZHo0ZDl6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQrLkfJdrD7SU/giphy.gif](https://giphy.com/gifs/head-bw-liquid-555JteaGrXdspzs789)" width="400" alt="3D model animation">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2d4NTg4amw2azd3dHRqZTZ1dTkxYWJsOWVlNDQzaHIzemxzZTNjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SNeZeuwlDrryu152pH/giphy.gif" width="400" alt="3D animation">
 </p>
+
 
 
 
