@@ -12,10 +12,10 @@
 
 # About:
 
-Curious mind. Builder of things.  
-I enjoy creating smart, meaningful stuff that just works.  
-Easily amazed by tech, sometimes lost in new ideas (and new places).  
-Fueled by good food, better code, and big dreams.
+- Curious mind. Builder of things.  
+- I enjoy creating smart, meaningful stuff that just works.  
+- Easily amazed by tech, sometimes lost in new ideas (and new places).  
+- Fueled by good food, better code, and big dreams.
 
 
 
