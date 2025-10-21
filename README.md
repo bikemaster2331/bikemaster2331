@@ -1,4 +1,7 @@
-![3D model animation](https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif)
+<p align="center">
+  <img src="[https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif](https://giphy.com/explore/3d-model)" width="400" alt="3D Model Animation">
+</p>
+
 
 
 
