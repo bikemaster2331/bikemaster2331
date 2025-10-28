@@ -12,6 +12,10 @@
 
 # About:
 
+<p align="center">
+  <img src="https://media.tenor.com/PbdRZW-5F0EAAAAi/bongo-cat-lawbear.gif" width="100" alt="Bongo Cat Lawbear">
+</p>
+
 Hello!! I am Marthan, an aspiring automation enthusiast. I like creating and destroying things i build. Pleasure to meet you!
 
 
