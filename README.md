@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="img/walla.png" width="100" alt="gentleman">
+  <img src="https://media.tenor.com/PbdRZW-5F0EAAAAi/bongo-cat-lawbear.gif" width="100" alt="Bongo Cat Lawbear">
 </p>
-
 
 
 
@@ -13,7 +12,7 @@
 # About:
 
 <p align="center">
-  <img src="https://media.tenor.com/PbdRZW-5F0EAAAAi/bongo-cat-lawbear.gif" width="100" alt="Bongo Cat Lawbear">
+  <img src="img/walla.png" width="100" alt="gentleman">
 </p>
 
 Hello!! I am Marthan, an aspiring automation enthusiast. I like creating and destroying things i build. Pleasure to meet you!
