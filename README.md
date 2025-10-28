@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/PbdRZW-5F0EAAAAi/bongo-cat-lawbear.gif" width="100" alt="Bongo Cat Lawbear">
+  <img src="img/walla.png" width="100" alt="gentleman">
 </p>
 
 
