@@ -11,7 +11,9 @@
 
 # About:
 
-<p>Hello!! I am Marthan, an aspiring automation enthusiast. I like creating and destroying things i build. Pleasure to meet you!</p>
+<p>Hello!! I am Marthan, an aspiring automation enthusiast. 
+  I like creating and destroying things i build. 
+  Pleasure to meet you!</p>
 
 <p align="right">
   <img src="img/walla.png" width="100" alt="gentleman">
