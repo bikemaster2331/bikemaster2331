@@ -15,9 +15,8 @@
   I like creating and destroying things i build. <br>
   I'd like to travel around the world. <br>
   I'm usually bad at traveling. <br>
+  I'm trying to be funnt sorry. <br>
   Pleasure to meet you!</p>
-
-- I try to be funny
 
 
 
