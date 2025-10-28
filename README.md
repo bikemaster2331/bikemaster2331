@@ -17,8 +17,8 @@
   I'm usually bad at traveling. <br>
   Pleasure to meet you!</p>
 
-- sdad
-  - sdsd
+- I try to be funny
+
 
 
 
