@@ -15,12 +15,14 @@
   I like creating and destroying things i build. <br>
   I'd like to travel around the world. <br>
   I'm usually bad at traveling. <br>
-  I'm trying to be funnt sorry. <br>
+  I'm trying to be funny sorry. <br>
   Pleasure to meet you!</p>
 
-
-
-
+### Contacts:
+Contact me here: [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:marthan.lanuzga@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/marthan.lanuzga) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanlanuzga) 
+Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marthanlanuzga)
 
 
 
@@ -72,11 +74,7 @@
 
 ---
 
-### Contacts:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:marthan.lanuzga@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/marthan.lanuzga) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanlanuzga) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marthanlanuzga)
+
 
 
 
