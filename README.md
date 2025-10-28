@@ -17,9 +17,7 @@
   I'm usually bad at traveling. <br>
   Pleasure to meet you!</p>
 
-<p align="right">
-  <img src="img/walla.png" width="100" alt="gentleman">
-</p>
+
 
 
 
