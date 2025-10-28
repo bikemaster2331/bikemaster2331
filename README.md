@@ -12,10 +12,7 @@
 
 # About:
 
-- I like food
-- I dont enjoy spicy food
-- I'd like to travel around the world
-- I'm bad at traveling
+Hello!! I am Marthan, an aspiring automation enthusiast. I like creating and destroying things i build. Pleasure to meet you!
 
 
 
