@@ -13,6 +13,8 @@
 
 <p>Hello!! I am Marthan, an aspiring automation enthusiast. <br>
   I like creating and destroying things i build. <br>
+  I'd like to travel around the world. <br>
+  I'm usually bad at traveling. <br>
   Pleasure to meet you!</p>
 
 <p align="right">
