@@ -7,18 +7,8 @@
 </p>
 
 
-
-
-# About:
-
-<p>Hello!! I am Marthan, an aspiring automation enthusiast. <br>
-  I like creating and destroying things i build. <br>
-  I'd like to travel around the world. <br>
-  I'm usually bad at traveling. <br>
-  I'm trying to be funny sorry. <br>
-  Pleasure to meet you!</p>
-
 ### Contacts:
+<p> Message me here ↓ </p>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tanlanuzga@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanlanuzga) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanlanuzga) 
