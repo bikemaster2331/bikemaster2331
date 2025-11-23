@@ -7,7 +7,7 @@
 </p>
 
 
-<p>I like automating things</p>
+<p>I like things</p>
 
 ### Contacts:
 <p>Message me here ↓ </p>
