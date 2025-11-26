@@ -10,7 +10,7 @@
 Currently interested with Machine Learning<br>
 
 ## Contacts:
-<p>hmu ↓ </p>
+<p>hmu > </p>
 <div align=center>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanlanuzga@gmail.com)
