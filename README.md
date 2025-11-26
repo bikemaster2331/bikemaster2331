@@ -83,6 +83,8 @@ Currently interested with Machine Learning<br>
 
 </div>
 
+<div align=center>
+
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=bikemaster2331&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -92,7 +94,7 @@ Currently interested with Machine Learning<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bikemaster2331&theme=vision-friendly-dark&no-frame=false&no-bg=true&margin-w=4)
 
-
+</div>
 
 
 
