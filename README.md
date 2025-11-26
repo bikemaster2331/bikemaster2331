@@ -10,7 +10,7 @@
 Currently interested with Machine Learning<br>
 
 ## Contacts:
-![Animated Arrow] (gif/arrow.gif)
+<img src="gif/arrowtwo">
 <p>hmu > </p>
 <div align=center>
 
