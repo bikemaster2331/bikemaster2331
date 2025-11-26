@@ -10,6 +10,7 @@
 Currently interested with Machine Learning<br>
 
 ## Contacts:
+<img src="gif/arrow.gif" alt="Bongo Cat Lawbear">
 <p>hmu > </p>
 <div align=center>
 
