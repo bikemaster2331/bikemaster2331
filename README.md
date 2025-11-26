@@ -20,7 +20,7 @@ Currently interested with Machine Learning<br>
 
 
 ## Tech Stack:
-<div>
+<div align=center>
 
 ### Proficient Languages
 
