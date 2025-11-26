@@ -10,7 +10,6 @@
 Currently interested with Machine Learning<br>
 
 ## Contacts:
-<img src="gif/toktok.gif">
 <p>hmu > </p>
 <div align=center>
 
