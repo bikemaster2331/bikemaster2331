@@ -7,7 +7,7 @@
 </p>
 
 
-<p>I like things</p>
+Currently interested with Machine Learning<br>
 
 ### Contacts:
 <p>Message me here ↓ </p>
