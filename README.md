@@ -30,7 +30,7 @@ Currently interested with Machine Learning<br>
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
---
+---
 
 ### Web Development
 
