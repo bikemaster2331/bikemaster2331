@@ -48,6 +48,8 @@ Currently interested with Machine Learning<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
+---
+
 
 ### AI, ML, and Data Science
 
