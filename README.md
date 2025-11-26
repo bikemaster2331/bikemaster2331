@@ -77,6 +77,7 @@ Currently interested with Machine Learning<br>
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+---
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bikemaster2331&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -86,7 +87,6 @@ Currently interested with Machine Learning<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bikemaster2331&theme=vision-friendly-dark&no-frame=false&no-bg=true&margin-w=4)
 
----
 
 </div>
 
