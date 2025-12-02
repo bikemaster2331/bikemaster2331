@@ -7,7 +7,7 @@
 </p>
 
 
-Currently interested with Machine Learning<br>
+Learning Machine Learning<br>
 
 ## Contacts:
 <p>hmu > </p>
