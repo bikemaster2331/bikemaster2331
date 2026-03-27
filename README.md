@@ -9,7 +9,7 @@
 
 Learning Machine Learning<br>
 
-## Contacts:
+## Contacts
 <p>hmu > </p>
 <div align=center>
 
@@ -18,7 +18,7 @@ Learning Machine Learning<br>
 </div>
 
 
-## Stack:
+## Stack
 <div align=center>
 
 ### Languages
